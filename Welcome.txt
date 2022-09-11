@@ -1,2 +1,2 @@
-hello
-Akash
+hello Akash to git hub tutorials
+Hope you enjoy the new version control
